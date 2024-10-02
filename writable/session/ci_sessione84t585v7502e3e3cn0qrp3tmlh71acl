@@ -1,0 +1,32 @@
+__ci_last_regenerate|i:1727097416;rech_recette|a:2:{s:5:"texte";s:0:"";s:11:"nb_par_page";i:10;}_ci_previous_url|s:54:"http://myfavoriterecipes.gabriel-cassano.be/modifier/3";_ci_old_input|a:2:{s:3:"get";a:0:{}s:4:"post";a:15:{s:5:"titre";s:40:"Semoule de Couscous à la Viande Hachée";s:21:"quantite_ingredient_0";s:5:"300 g";s:16:"nom_ingredient_0";s:36:"de semoule de couscous (grain moyen)";s:21:"quantite_ingredient_1";s:5:"300 g";s:16:"nom_ingredient_1";s:37:"de viande hachée (bœuf ou volaille)";s:21:"quantite_ingredient_2";s:1:"1";s:16:"nom_ingredient_2";s:12:"oignon moyen";s:21:"quantite_ingredient_3";s:1:"2";s:16:"nom_ingredient_3";s:14:"tomates mûres";s:21:"quantite_ingredient_4";s:1:"2";s:16:"nom_ingredient_4";s:44:"cuillères à soupe de concentré de tomates";s:21:"quantite_ingredient_5";s:1:"1";s:16:"nom_ingredient_5";s:21:"courgette (optionnel)";s:12:"instructions";s:2100:"Instructions :
+
+    Préparation des légumes :
+        Émincez l'oignon finement.
+        Coupez les tomates en petits dés.
+        Si vous utilisez des légumes comme la courgette, les carottes ou le poivron, coupez-les en petits morceaux.
+
+    Cuisson de la viande hachée :
+        Dans une grande poêle, faites chauffer l'huile d'olive à feu moyen.
+        Ajoutez l'oignon émincé et faites-le revenir jusqu'à ce qu'il devienne translucide.
+        Ajoutez la viande hachée et faites-la cuire en remuant régulièrement jusqu'à ce qu'elle soit bien dorée.
+        Ajoutez les épices (cumin, paprika, cannelle), salez et poivrez à votre goût. Mélangez bien pour que les épices enrobent la viande.
+
+    Ajout des légumes et de la sauce :
+        Si vous avez des légumes, ajoutez-les dans la poêle et faites-les revenir avec la viande pendant quelques minutes.
+        Ajoutez ensuite les dés de tomates et le concentré de tomates. Mélangez bien.
+        Laissez mijoter à feu doux pendant 10 à 15 minutes, en ajoutant un peu d'eau si nécessaire pour obtenir une sauce onctueuse.
+
+    Préparation de la semoule de couscous :
+        Pendant que la viande et les légumes mijotent, préparez la semoule de couscous selon les instructions du paquet.
+        En général, il suffit de verser de l'eau bouillante salée (environ 1,5 fois le volume de semoule) sur la semoule, de couvrir et de laisser gonfler pendant 5 minutes.
+        Une fois la semoule gonflée, ajoutez une noisette de beurre ou un filet d'huile d'olive, puis égrenez-la à la fourchette pour séparer les grains.
+
+    Assemblage et service :
+        Disposez la semoule de couscous dans un grand plat ou dans des assiettes individuelles.
+        Recouvrez avec la viande hachée et les légumes en sauce.
+        Garnissez de persil ou de coriandre fraîche pour une touche de couleur et de fraîcheur.
+
+    Dégustation :
+        Servez chaud, accompagné éventuellement d'un yaourt nature ou d'une sauce harissa pour ceux qui aiment les plats épicés.
+
+Bon appétit !";s:11:"form_submit";s:11:"Sauvegarder";}}__ci_vars|a:3:{s:13:"_ci_old_input";s:3:"old";s:21:"_ci_validation_errors";s:3:"old";s:7:"erreurs";s:3:"old";}_ci_validation_errors|s:61:"a:1:{s:5:"image";s:35:"Image is not a valid uploaded file.";}";erreurs|a:1:{s:5:"image";s:35:"Image is not a valid uploaded file.";}
